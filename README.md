@@ -1,4 +1,4 @@
-# Liam-Project123
+# Liam-Project
 Equipment rental
 
 # Getting Started with Create React App
